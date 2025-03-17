@@ -1,1 +1,2 @@
-.
+SHORT MESSAGE:
+In this lab, I learned how to use Git for version control, including creating and managing branches, making pull requests, and collaborating through forking and merging. Additionally, I learned how to connect a VS Code project to GitHub, making it easier to track changes and sync my work efficiently. Which are essential skills for effective teamwork and software development.
