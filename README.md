@@ -1,5 +1,5 @@
 #  web-dev-lab
-# group members:
+# **group members:*
 Dennis mulenga; Nathan Mbumwae
 ## **Lab Work Description**
 This project is part of the CSC 4035 Week 1 Lab. The objectives include:
